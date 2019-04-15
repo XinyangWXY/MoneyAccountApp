@@ -1,0 +1,6 @@
+Xinyang Wang
+
+I completed the connections between viewcontrollers and tableView. Also, the text in the viewController can show up on the tableView.
+I did partily function is that I plan to show the total money the person left in the account which will appear at the tableView.
+I did not complete the storage. If I close the app and open it, the data is not be saved.
+My question is that how to store the data.I followed the data that posted on the lecture10, but it did not work.
